@@ -1,7 +1,7 @@
 """
 Script de pruebas de sintaxis con python
 """
-
+hola1()
 variable1 = 5
 variable2 = False
 variable3 = 5.6

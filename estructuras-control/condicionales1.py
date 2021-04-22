@@ -42,6 +42,18 @@ elif check3:
 else:
     print("Esto se ejecuta si no se cumple ninguna condición")
 
+check4 = 4 > 9
+# Equivalente a switch
+if check1:
+    print("")
+elif check2:
+    print("")
+elif check3:
+    print("")
+elif check4:
+    print("")
+else:
+    print("else")
 
 # OPCIONAL
 # if en una línea

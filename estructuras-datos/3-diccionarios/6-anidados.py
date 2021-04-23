@@ -22,7 +22,7 @@ car = {
         "type": "electric"
     },
     "color": "black",
-    "description": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor"
 }
 
 print(car["manufacturer"]["name"])

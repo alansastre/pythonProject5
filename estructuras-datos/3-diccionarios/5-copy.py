@@ -36,3 +36,7 @@ customer_base = {
 }
 customer2 = dict(customer_base)
 print(customer2)
+
+customer4 = dict(customer_id=1, first_name="Alan", last_name="Sastre")
+print(customer4)
+

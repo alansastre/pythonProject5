@@ -27,6 +27,7 @@ print(nominados)
 
 # 2.1 del
 # del nominados
+# nominados = []
 # print(nominados)  # NameError
 
 # 2.2 vaciar la lista
